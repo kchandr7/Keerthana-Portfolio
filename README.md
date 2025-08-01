@@ -1,3 +1,4 @@
+#Keerthana Shekar Chandrashekar
 # Data & Supply Chain Analytics Portfolio
 
 Welcome to my portfolio repository showcasing my work in data analytics, supply chain management, and process optimization. This static website highlights key projects where I applied analytical techniques, machine learning models, and dashboard visualizations to solve real-world business problems.
